@@ -1,3 +1,2 @@
-print("Hello World")
-print("Hello World2")
-print("Hello World3")
+for i in range(10):
+    print("Hello World")
